@@ -1,0 +1,10 @@
+apiVersion: platform.plural.sh/v1alpha1
+kind: Config
+metadata: null
+spec:
+  email: davidtiffeneaugaugau@gmail.com
+  token: plrl-42t0CPn1rHKdcmojoVES0gFaYORDRCEIAqUusj2nbgDeD8pxRNpwAjystUZqMyR3aCpFSRAt2WMVmV5vbHnqwg==
+  namespacePrefix: ""
+  endpoint: ""
+  lockProfile: ""
+  reportErrors: false
